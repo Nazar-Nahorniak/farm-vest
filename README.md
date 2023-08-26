@@ -1,5 +1,5 @@
 # Farm Vest
-Layout of the landing page of investments in agriculture, [review](https://nazar-nahorniak.github.io/farm-vest/). 
+Layout of the landing page of investments in agriculture, [review](https://farm-vest-sigma.vercel.app/). 
 
 - Site adaptation to 320px.
 - The BEM methodology was used in the written markings.
